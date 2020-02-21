@@ -1,6 +1,12 @@
 # layout-bmfont-text
 
-[![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges)
+*Note:* this is a fork of `layout-bmfont-text` with the aim of fixing a single
+issue that prevented us from using it in a browser environment where the
+Content-Security-Policy prevents the usage of `new Function()`.
+
+The codebase was forked from `layout-bmfont-text@1.3.4`.
+
+The rest of this README is from the original project.
 
 ![screenshot](http://i.imgur.com/fDIH2z9.png)
 
