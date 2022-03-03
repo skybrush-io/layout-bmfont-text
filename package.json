@@ -1,5 +1,5 @@
 {
-  "name": "@collmot/layout-bmfont-text",
+  "name": "@skybrush/layout-bmfont-text",
   "version": "1.3.5",
   "description": "word-wraps and lays out text glyphs - fork of layout-bmfont-text",
   "main": "index.js",
